@@ -4,7 +4,7 @@ public class Aula0 {
 		Scanner entrada = new Scanner(System.in);
 	  
 
-		/*//Passo 1 Declarando valor na variavel diretamente 
+		/*// Declarando valor na variavel diretamente 
 		String nome = "Giovanna";
 		int idade = 16;
 		boolean cafe = true; 
@@ -12,7 +12,7 @@ public class Aula0 {
 		System.out.println("Nome: " + nome + " Idade: "  + idade + " Tomou café da manhã:" + cafe);
 
 
-		//Passo 2 Puxando variavel para adicionar valor
+		//Puxando variavel para adicionar valor
 		String inicial; 
 		inicial = "Giovanna"; 
 		int idadee = 16; 
@@ -54,14 +54,15 @@ public class Aula0 {
 		System.out.println("Cores escritas: " + cor0 + " e " + cor1);
 		System.out.println(" ");*/
 
-		//Scanner
+		/*//Scanner
 		System.out.println("Digite seu nome: "); 
 		String nome = entrada.nextLine(); 
 
 		System.out.println("Digite sua idade: "); 
 		int idadeee = entrada.nextInt(); 
 
-		System.out.println("Seu nome é: " + nome + " e " + "você tem: " + idadeee + " anos."); 
+		System.out.println("Seu nome é: " + nome + " e " + "você tem: " + idadeee + " anos."); */
+		entrada.close();
 		
 
 	}
